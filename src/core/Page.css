@@ -1,0 +1,13 @@
+.page {
+    box-sizing: border-box; /*poner la pagina a su tamano completo*/
+    background-color: #fff;
+    padding: 1em;
+    overflow: auto;
+   }
+   
+   .content{
+       display:flex;
+       flex-direction: column;
+   }
+   
+   

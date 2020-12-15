@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+}
+
+.addsection{
+    font-size:large;
+}
+
+.addsection option{
+    margin-left: 2.em;
+}
+
+.addsection h4{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 42px;
+}
+
+.selec{
+    margin-left: 2em;
+}
+
+.desc{
+    margin-left: 1em;
+}
+
+.price{
+    text-align: left;
+    margin-left: 2.5em;
+}
+
